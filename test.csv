@@ -1,0 +1,155 @@
+,food_city,food_small_category,food_name,food_location,food_call_num,food_date,food_menu,food_picture_url
+0,제주시,"초밥,롤",황금손가락,제주 제주시 구남동1길 44아라이동 3012-1,064-723-3888,"평일 15:00 - 17:00브레이크타임(주말없음)
+매일 11:30 - 10:00연중무휴,배달가능","['12,000원', '모듬초밥(13p)', '15,000원', '특초밥(13p)', '20,000원', '황금초밥(13p)', '4,000~5,000원', '날개초밥', '23,000원', '참치초밥(13p)', '메뉴판(원산지)', '이미지로']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20171215_92%2F1513301274671JwnDH_JPEG%2FkpZp49FTxuv5MIPjUs8JYbPk.jpg&type=f150_130
+1,제주시,생선회,용출횟집,제주 제주시 서해안로 660용담3동 505 용두암1차현대아파트,064-742-9244,매일 12:00 - 21:00명절 당일 휴무,"['변동', '황동', '1kg', '변동', '광어', '4인', '변동', '우럭', '1kg', '변동']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fblogfiles.naver.net%2F20160219_202%2Fgodzilla_r35_1455882991496VAhvb_JPEG%2FDSC06073.JPG%231600x1067&type=f150_130
+2,제주시,한식,정성듬뿍제주국,제주 제주시 무근성7길 16삼도2동 1069-2,064-755-9388,일요일 휴무,"['8,000원', '몸국', '8,000원', '각재기국', '8,000원', '장대국', '8,000원', '된장뚝배기', '8,000원', '멜국', '메뉴판(원산지)']",null
+3,null,null,null,null,null,null,null,null
+4,제주시,국수,골막식당,제주 제주시 천수로 12이도2동 362-1,064-753-6949,"일요일 휴무
+매일 07:00 - 19:00","['6,000원', '골막국수', '7,000원', '골막국수(곱배기', ')', '20,000원', '수육', '메뉴판(원산지)']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fblogfiles.naver.net%2F20160321_64%2Fseoulnusu119_1458534922858Nd23S_JPEG%2F1458090408525.jpg%23740x555&type=f150_130
+5,null,null,null,null,null,null,null,null
+6,제주시,"칼국수,만두",코코분식,제주 제주시 신성로 104이도2동 1187-5 1층,064-751-1118,"주말 휴무
+매일 11:00 - 20:00","['4,500원', '비빔밥', '4,500원', '칼국수', '4,500원', '육개장', '메뉴판(원산지)']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20190130_114%2F15488275191226EJMl_JPEG%2FLv4kMyN9d46wOcOV2wJn25Cb.jpg&type=f150_130
+7,제주시,"매운탕,해물탕",삼성혈해물탕,제주 제주시 선덕로5길 20연동 312-27,064-745-3000,"매일 10:00 - 22:30연중무휴
+매일 15:00 - 16:00Break Time","['80,000원', '해물탕', '特大', '70,000원', '해물탕', '大', '60,000원', '해물탕', '中', '50,000원', '해물탕', '小', '30,000원', '전복회', '小', '메뉴판(원산지)', '이미지로']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20151104_151%2F1446624382093FLBzR_JPEG%2F167054573640013_5.jpg&type=f150_130
+8,제주시,한식,향토음식유리네,제주 제주시 연북로 146연동 427-1,064-748-0890,매일 09:00 - 21:00추석/설연휴 : 11시부터~,"['36,000원', '갈치조림(小)', '28,000원', '고등어조림(小)', '36,000원', '갈치구이']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20150831_198%2F1441027212743Jx0K8_JPEG%2F156155406177932_0.jpg&type=f150_130
+9,제주시,전복요리,순옥이네명가,제주 제주시 도공로 8도두1동 2615-5,064-743-4813,"매일 09:00 - 20:30브레이크타임 15:30~17:00, 명절 연휴 휴무","['20,000원', '소라', '30,000원', '성게', '12,000원', '한치물회', '15,000원', '순옥이네물회', '15,000원', '전복물회', '메뉴판(원산지)', '이미지로']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20190112_282%2F1547276845033b2zvo_JPEG%2Ff7vQqjC1DWQleghLQuJJZGy9.jpeg.jpg&type=f150_130
+10,null,null,null,null,null,null,null,null
+11,제주시,생선회,삼미횟집,제주 제주시 도두항서5길 1도두1동 2617-1,064-713-6400,매일 11:00 - 22:30,"['160,000원', '대표', '삼미스페셜', '100,000원', '2인모듬회', '120,000원', '한상모듬회(특모듬회)', '60,000원', '전복해물탕', '소(2~3인)', '250,000원', '다금바리1Kg', '메뉴판(원산지)', '이미지로']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fblogfiles.naver.net%2F20160316_191%2Fbluebko_1458090334904fYqlQ_JPEG%2FDSC_3920.jpg%23900x598&type=f150_130
+12,제주시,"카페,디저트",닐모리동동,제주 제주시 서해안로 452용담삼동 2396 오다펜션 1층,064-745-5008,"매일 10:00 - 23:00성수기 (7월,8월)","['13,000원', '대표', '한라산빙수', '77,000원', '대표', '패밀리셋트', '15,000~18,000원', '파스타', '18,000원', '스튜&라이스', '15,000~25,000원', '샐러드&스테이크', '메뉴판(원산지)', '이미지로']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20171127_170%2F1511708723683yhT1w_JPEG%2Fcoupleset--.jpg&type=f150_130
+13,null,null,null,null,null,null,null,null
+14,제주시,해장국,은희네해장국,제주 제주시 고마로13길 8일도2동 357-4,064-726-5622,주말 06:00 - 14:00,"['9,000원', '소고기해장국', '메뉴판(원산지)']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fblogfiles.naver.net%2F20160302_33%2Fryanjoh_1456918805542jb1ch_JPEG%2FL1250899-%25BB%25E7%25BA%25BB.jpg%23740x462&type=f150_130
+15,null,null,null,null,null,null,null,null
+16,null,null,null,null,null,null,null,null
+17,null,null,null,null,null,null,null,null
+18,null,null,null,null,null,null,null,null
+19,null,null,null,null,null,null,null,null
+20,null,null,null,null,null,null,null,null
+21,제주시,"카페,디저트",커피파인더,제주 제주시 서광로32길 20이도2동 1766-7,064-726-2689,매일 10:00 - 01:00,"['5,000원', '대표', '참깨라떼']",null
+22,제주시,중식당,짬뽕에취한날,제주 제주시 귀아랑2길 4연동 311-21,070-8227-2335,"일요일 휴무
+매일 11:00 - 20:30Break time 15:00~17:00","['7,000원', '짬뽕', '8,500원', '갈비짬뽕', '9,000원', '해물짬뽕', '5,500원', '짜장', '6,000원']",null
+23,null,null,null,null,null,null,null,null
+24,제주시,포장마차,신설오름,제주 제주시 고마로17길 2일도2동 409-5,064-758-0143,"매일 10:00 - 06:00익일새벽 6
+월요일 휴무둘째주, 넷째주,명절당일 휴무","['20,000원', '돔베고기', '14,000원', '몸국(대)', '7,000원', '몸국수', '메뉴판(원산지)']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fblogfiles.naver.net%2F20160125_168%2Fwwww7830_1453724767823vLqfl_JPEG%2FDSC09408.JPG%23900x599&type=f150_130
+25,null,null,null,null,null,null,null,null
+26,제주시,"도시락,컵밥",제주시새우리,제주 제주시 무근성7길 21삼도2동 1098-3 제주시 새우리,064-900-2527,"매일 09:00 - 20:30재료소진시 마감, 브레이크 타임 있음.","['6,500원', '대표', '딱새우김밥', '5,000원', '대표', '딱새우꼬막무침', '8,500원', '간장새우컵밥', '8,500원', '양념새우컵밥', '7,500원', '감귤갈릭컵밥', '메뉴판(원산지)', '이미지로']",null
+27,null,null,null,null,null,null,null,null
+28,null,null,null,null,null,null,null,null
+29,제주시,돼지고기구이,칠돈가 본점,제주 제주시 서천길 1용담2동 2695-4,064-727-9092,매일 13:30 - 22:00,"['45,000원', '칠돈가근고기', '600g', '54,000원', '흑도야지근고기', '600g', '7,000원', '김치찌개', '4,000원', '소주,맥주', '메뉴판(원산지)']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20161130_91%2F1480488692998i40Y8_JPEG%2F177080558152839_0.jpeg&type=f150_130
+30,제주시,낙지요리,연동길,제주 제주시 은남2길 23연동 292-94,064-748-9363,매일 10:30 - 21:0021:20분 영업종료/연중무휴,"['22,000원', '낙지볶음', '소(2인)', '33,000원', '낙지볶음', '중(3인)', '44,000원', '낙지볶음', '대(4인)', '1,000원', '공기밥', '1,000원']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fblogfiles.naver.net%2F20160314_260%2Fwndus0905_1457923101302comHj_JPEG%2FIMG_2017.JPG%23480x360&type=f150_130
+31,제주시,한식,냄비에퐁닭,제주 제주시 서광로32길 26-5이도2동 1765-4,064-757-5754,매일 12:00 - 24:00,"['22,000원', '닭볶음탕', '소(2인)', '33,000원', '닭볶음탕']",null
+32,제주시,닭볶음탕,송림식당,제주 제주시 신대로14길 34연동 282-36,064-747-5548,매일 12:00 - 20:30첫째 일요일 둘째 셋째 넷째 토요일 휴무,"['22,000원', '닭도리탕', '小', '27,000원', '닭도리탕', '中', '37,000원', '닭도리탕', '大', '변동']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fblogfiles.naver.net%2F20160524_103%2Fhijeju222_1464051879522uibGU_JPEG%2FKakaoTalk_20160524_084713000.jpg%23400x300&type=f150_130
+33,null,null,null,null,null,null,null,null
+34,null,null,null,null,null,null,null,null
+35,제주시,종합분식,참맛나김밥,제주 제주시 한라대학로 31노형동 3813-5,064-748-2654,매일 09:00 - 19:00고정 휴무일없이 주중에 랜덤으로 하루 쉽니다^^,"['7,000원', '대표', '열무국수', '7,000원', '대표', '칼국수', '4,000원', '고기김밥', '3,500원', '햄김밥', '메뉴판(원산지)']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20180814_276%2F1534222163650f4oqo_JPEG%2FPDS_PdOtpMjizhYD3H4gAMcn.jpg&type=f150_130
+36,제주시,"찌개,전골",미송식탁,제주 제주시 삼무로11길 36연동 291-26 미송식탁,064-744-1028,매일 11:30 - 22:00PM 09:00 마지막주문시간,"['8,000원', '대표', '매운참치찌개', '13,000원', '대표', '바싹파불고기', '9,000원', '치즈돼지찌개', '8,000원', '매운돼지찌개', '3,000원', '스팸구이', '4조각', '메뉴판(원산지)']",null
+37,null,null,null,null,null,null,null,null
+38,null,null,null,null,null,null,null,null
+39,null,null,null,null,null,null,null,null
+40,제주시,일식당,마구로쇼쿠도,제주 제주시 연삼로 422이도2동 1063-6,064-726-5242,매일 11:00 - 15:00매주 화요일휴무입니다.,"['16,000원', '대표', '하브동(소)-점심', '26,000원', '대표', '도로도로동(소)-점심', '10,500원', '육회동(소)-점심', '15,500원', '육회동(중)-점심', '10,500원']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20171220_84%2F15137510265280NaYr_JPEG%2FARLlL8zWO6NJXYCPFjDq-kB1.jpg&type=f150_130
+41,서귀포시,"육류,고기요리",칠십리고기완자,제주 서귀포시 태평로 357서귀동 820-5,064-732-5570,매일 11:00 - 22:00Break time 15:00~17:00 / Last order 21:00,"['13,000원', '칠십리', '고기완자', '15,500원', '치즈오븐', '고기완자', '16,500원', '고기완자', '토마토', '스튜', '13,500원', '고기완자', '라이스', '14,500원', '삼색고기완자', '메뉴판(원산지)', '이미지로']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20170414_6%2F14921534872598SjbI_JPEG%2F186364563464_0.JPG&type=f150_130
+42,null,null,null,null,null,null,null,null
+43,제주시,일식당,후카후카,제주 제주시 애월읍 항파두리로 148유수암리 2049-1,064-799-1103,"매일 11:30 - 18:00라스트오더 17:30 브레이크타임❌
+수요일 휴무브레이크타임 없음❌","['12,000원', '히레카츠']",null
+44,null,null,null,null,null,null,null,null
+45,제주시,종합분식,명랑스낵,제주 제주시 한림읍 한림로 585한림리 1479-4 1층,null,"매일 11:30 - 18:30저녁6시 주문마감,마지막주 화,수요일 휴무
+화요일 휴무","['4,000원', '떡볶이', '10,000원', '짜장떡볶이(2인분)', '8,000원', '왕새우튀김(2개)', '13,000원', '한치튀김', '8,000원', '흑돼지튀김(2개)', '메뉴판(원산지)']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20180209_86%2F1518136522380FuY5e_PNG%2FCC-OncbA_7HxIeZCf_eWEoHV.png&type=f150_130
+46,null,null,null,null,null,null,null,null
+47,제주시,카레,문쏘,제주 제주시 한림읍 한림상로 15-5옹포리 326-3,064-796-4055,매일 10:30 - 20:30브레이크타임 없음❌ / 마지막주문 PM19:30 / 매주목요일 휴무🙇‍♂️ / 가방안에든 소형견만 입장가능,"['13,000원', '대표', '황게카레', '20,000원', '대표', '에그인헬']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20190830_258%2F1567167987108GHK7U_JPEG%2Faws-zy5z4MLe5fRfGO0XsWdb.jpg&type=f150_130
+48,서귀포시,양식,어부피자,제주 서귀포시 성산읍 서성일로 1078-14수산리 225 어부피자,064-782-9242,"매일 11:00 - 20:009월~6월, 매월 세번째 수요일 휴무
+매일 11:00 - 21:007월~8월","['55,000원', '대표', '랍스타한마리피자', '28,000원', '딱새우피자', '메뉴판(원산지)']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20181221_163%2F1545385404912a3IXy_JPEG%2FGyp8QoXex0AvwyBxrKdjznIJ.jpg&type=f150_130
+49,서귀포시,전복요리,오조해녀의집,제주 서귀포시 성산읍 한도로 141-13오조리 3 오조해녀의집,064-784-0893,매일 06:00 - 20:00,"['12,000원', '전복죽', '110,000원', '전복회', '1kg']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20150831_67%2F1441004253100SLB0K_PNG%2F11609038_0.png&type=f150_130
+50,제주시,국수,산도롱맨도롱,제주 제주시 구좌읍 해맞이해안로 2284종달리 484-1 산도롱맨도롱,064-782-5105,"매일 08:00 - 20:00브레이크타임없음 라스트오더 20시
+화요일 휴무","['12,000원', '갈비국수', '8,000원', '고기국수', '8,000원', '비빔국수', '8,000원', '고기국밥', '35,000원', '돔베2인세트', '메뉴판(원산지)']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fblogfiles.naver.net%2F20160326_121%2Fdh2619_1458975791742m4sxV_JPEG%2FIMG_3146.jpg%235033x3355&type=f150_130
+51,서귀포시,국수,가시아방국수,null,064-783-0987,"매일 10:30 - 21:00매월 첫번째, 세번째 수요일 휴무","['25,000원', '돔베고기', '6,000원', '멸치국수', '7,000원', '고기국수', '7,000원', '비빔국수', '15,000원', '아강발', '메뉴판(원산지)']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fblogfiles.naver.net%2F20161018_50%2Fbastianchoi_1476801178692eja8R_JPEG%2F20161009_113143.jpg%235312x2988&type=f150_130
+52,null,null,null,null,null,null,null,null
+53,제주시,"카페,디저트",블랑로쉐,제주 제주시 우도면 우도해안길 783연평리 712-1,064-782-9154,매일 11:00 - 17:00따스한 계절(4월~10월),"['8,000원', '대표', '우도', '땅콩크림라떼', '10,000원', '대표', '우도', '땅콩잼', '6,000원', '우도', '땅콩아이스크림', '11,000원', '우도', '땅콩', '23,000원', '우도', '등대캔들', '메뉴판(원산지)']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20180219_202%2F1519027261927I5KXm_JPEG%2F96uawQixc_ZGGcPUtnnLATRU.jpeg.jpg&type=f150_130
+54,제주시,전복요리,소섬전복,null,064-782-0062,null,"['15,000원', '전복밥+전복뚝배기', '15,000원', '전복밥+전복성게미역국', '15,000원', '전복밥+전복물회', '15,000원', '전복죽', '30,000원', '전복버터구이(12미)', '메뉴판(원산지)', '이미지로']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20190618_80%2F15608364309540pqwW_JPEG%2FPUFpMfFIZa94K64FmHLAvuuU.JPG.jpg&type=f150_130
+55,제주시,베이커리,봉끄랑,제주 제주시 우도면 우도해안길 144연평리 2649-1,064-784-8899,매일 09:00 - 17:00,"['13,000원', '대표', '레인보우수제버거', '13,000원', '대표', '블랙버거', '4,000~4,500원', '아메리카노', '4,500~5,000원', '카페라떼', '5,000~5,500원', '카페모카', '메뉴판(원산지)', '이미지로']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20180719_110%2F15319679137585XP29_PNG%2Fqm7KofUz-RQneZyQ50kX1Gk9.png&type=f150_130
+56,null,null,null,null,null,null,null,null
+57,null,null,null,null,null,null,null,null
+58,제주시,"카페,디저트",안녕육지사람,제주 제주시 우도면 우도해안길 792연평리 1197-4,010-2823-0170,"매일 10:00 - 18:00성수기
+매일 10:30 - 16:30비수기","['5,000원', '땅콩아이스크림', '5,000원', '아메리카노', '7,000원', '우도땅콩라떼', '7,000원', '감귤톡톡에이드', '10,500원', '흑돼지버거땅콩버거', '메뉴판(원산지)', '이미지로']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20170526_235%2F149579601838102uui_JPEG%2F186476598358205_0.jpeg&type=f150_130
+59,null,null,null,null,null,null,null,null
+60,제주시,한식,로뎀가든,제주 제주시 우도면 우도해안길 264연평리 2515,064-782-5501,매일 09:00 - 18:00풍랑주의보시 휴무,"['15,000원', '한치및흑돼지주물럭', '4,000원', '한라산볶음밥', '16,000원', '특', '한치', '해물파전', '메뉴판(원산지)']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20171016_167%2F1508120991648bMFpq_JPEG%2FlisIC4u9QNtunVTy3WSPH2dy.jpg&type=f150_130
+61,제주시,중식당,섬소나이,제주 제주시 우도면 우도해안길 814연평리 1290-6,064-784-2918,매일 09:30 - 17:00배안뜨는날휴무,"['9,900원', '대표', '우짬', '11,900원', '대표', '백짬', '10,900원', '땡짬', '12,900원', '소섬(우도)피자', '14,900원', '도새기(돼지)피자', '메뉴판(원산지)', '이미지로']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20190820_120%2F1566262970305I6EDc_JPEG%2FKakaoTalk_20190514_152506481.jpg&type=f150_130
+62,서귀포시,김밥,오는정김밥,제주 서귀포시 동문동로 2서귀동 254-6,064-762-8927,"일요일 휴무
+매일 10:00 - 20:00","['3,000원', '오는정김밥', '3,500원', '치즈김밥', '4,500원', '참치김밥', '4,500원', '깻잎김밥', '4,500원', '멸치김밥', '메뉴판(원산지)', '이미지로']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20151114_3%2F1447431541072V3bel_JPEG%2F167064414920165_0.jpg&type=f150_130
+63,null,null,null,null,null,null,null,null
+64,서귀포시,돈가스,올레안뜰,제주 서귀포시 법환로 24법환동 229,064-738-7720,"매일 11:30 - 20:30Last order 19:30
+매일 16:00 - 17:00break time","['22,000원', '대표', '흑돼지', '왕돈가스', '22,000원', '대표', '흑돼지', '매운', '왕돈가스', '14,000원', '눈꽃', '치즈', '스파게티', '14,000원', '크림스파게티', '11,000원', '토마토스파게티', '메뉴판(원산지)']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20150902_32%2F1441125112580m26cn_JPEG%2F156557628558979_0.jpeg&type=f150_130
+65,서귀포시,"해물,생선요리",네거리식당,제주 서귀포시 서문로29번길 20서귀동 320-9 메로전문,064-762-5513,"주말 09:00 - 22:00
+평일 07:30 - 22:00마지막 주문 21시","['15,000원', '갈치국', '(소)', '20,000원', '갈치국', '(특)', '15,000원', '성게미역국', '15,000원', '옥돔미역국', '25,000원', '갈치구이', '1인분(공기밥별도)', '메뉴판(원산지)', '이미지로']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20151114_235%2F1447431658800UgCos_JPEG%2F167064415077407_0.jpg&type=f150_130
+66,null,null,null,null,null,null,null,null
+67,제주시,한식,신제주삼보식당,제주 제주시 신대로16길 10연동 293-23,064-749-3620,매일 08:00 - 20:00,null,https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fblogfiles.naver.net%2F20151111_186%2Fhansen500_1447248635008ag7Du_JPEG%2F20151107_100156.jpg%23740x416&type=f150_130
+68,서귀포시,한식,오전열한시,제주 서귀포시 상예로 248상예동 1765-1,070-8813-5576,"매일 11:00 - 17:30재료소진시 조기마감 / last order 17:00
+수요일 휴무","['13,000원', '육쌈동치미', '15,000원', '전복볶음밥', '13,000원', '간장새우밥', '메뉴판(원산지)']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20180727_268%2F1532690032447EcyVW_JPEG%2FY6R_y1eC7vm4RHULID0JNO_M.jpeg.jpg&type=f150_130
+69,null,null,null,null,null,null,null,null
+70,서귀포시,피자,칼초네화덕피자,제주 서귀포시 예래로 115상예동 762-9,064-738-9387,매일 12:00 - 21:00,"['16,000원', '대표', '칼초네피자', '16,000원', '대표', '반반피자', '16,000원', '파인애플피자', '16,000원', '치즈피자', '8,000원', '토마토홍샐러드', '메뉴판(원산지)']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20180406_242%2F1523009949108VfdlI_JPEG%2F0hlk7tFsW0Tw0vTJopn7-yLO.jpg&type=f150_130
+71,null,null,null,null,null,null,null,null
+72,제주시,인도음식,인디언키친,제주 제주시 애월읍 애원로 191상가리 2059-1,064-799-5859,매일 11:30 - 22:00,"['13,000원', '치킨커리', '메뉴판(원산지)']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20190507_255%2F1557202802354oSAqs_JPEG%2F%25B9%25D9%25B1%25D7%25B4%25D9%25B5%25E5%2528%25BF%25C3%25BC%25A6%25C6%25F7%25C5%25E4%2529-13-_ASP5584.jpg&type=f150_130
+73,null,null,null,null,null,null,null,null
+74,제주시,양식,사는맛먹는맛,제주 제주시 애월읍 가문동남길 63하귀2리 2717 1층,064-772-3595,매일 11:00 - 20:009월 첫째 셋째주 금요일 휴무,"['18,000원', '대표', '해토탕', '(강력추천)', '13,000원', '대표', '매력', '돈까스', '(순한맛/', '매콤한맛)', '16,000원', '전복', '해물', '상하이볶음밥', '16,000원', '딱새우', '까르보나라', '18,000원', '해물', '크림탕', '메뉴판(원산지)']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20180530_299%2F1527685848721z8DMU_JPEG%2FdZ2aOgNkHpBniFB4CrZJo73Y.JPG.jpg&type=f150_130
+75,null,null,null,null,null,null,null,null
+76,제주시,햄버거,몬스터살롱,제주 제주시 애월읍 일주서로 6017곽지리 1669-1,064-799-5310,매일 10:00 - 18:30마지막주문은 6시입니다,"['8,000원', '슈퍼맨세트(50cm롱츄러스+봉자주스)', '3,000원', '50cm', '롱츄러스', '9,300원', '몬스터제주한우버거', '9,300원', '제주흑돼지풀드포크버거', '13,900원', '햄버거세트(소다세트)', '메뉴판(원산지)', '이미지로']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20190114_127%2F15474722870235nGoL_JPEG%2FcgTJ8ptOVcO_ErmJ6WuUJyyk.jpg&type=f150_130
+77,제주시,돼지고기구이,해성도뚜리,제주 제주시 애월읍 애월해안로 682구엄리 1258,064-713-6321,매일 12:00 - 22:00화요일 휴무,"['11,000원', '토마토짬뽕', '10,000원', '흑돼지점심특선', '19,000원', '흑돼지', '오겹살(200g)', '19,000원', '흑돼지', '목살(200g)', '12,000원', '돼지양념갈비(300g)', '메뉴판(원산지)', '이미지로']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20190901_295%2F1567266042464oruQy_JPEG%2Fd6F8Akr7LjiFPme3EietQN7l.jpeg.jpg&type=f150_130
+78,null,null,null,null,null,null,null,null
+79,제주시,이탈리아음식,세러데이아일랜드,제주 제주시 구좌읍 평대7길 51평대리 2007-1,null,"매일 12:00 - 20:00화수목 휴무,3-5시breaktime,노키즈존,예약X,라스트오더:2시,7시","['23,000원', '대표', '전복리조또', '19,000원', '대표', '시칠리아파스타', '18,000원', '판체타파스타', '변동']",null
+80,null,null,null,null,null,null,null,null
+81,제주시,라면,놀맨,제주 제주시 애월읍 애월로1길 24애월리 2530,064-799-3332,평일 10:00 - 18:00하절기 / Break time 13:00~14:00,[],https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20151104_215%2F1446624320861Snnnw_JPEG%2F167054573539376_0.jpg&type=f150_130
+82,null,null,null,null,null,null,null,null
+83,null,null,null,null,null,null,null,null
+84,null,null,null,null,null,null,null,null
+85,제주시,비빔밥,안녕협재씨,제주 제주시 한림읍 협재1길 55협재리 1450-1,064-796-0624,"매일 11:00 - 19:00목요일 휴무 / 재료 소진시 조기마감
+목요일 휴무매주목요일휴무","['15,000원', '대표', '딱새우장', '비빔밥', '17,000원', '통', '전복내장', '비빔밥', '18,000원', '돌문어장', '비빔밥', '13,000원', '도마반판(1/2)', '25,000원', '도마한판', '메뉴판(원산지)', '이미지로']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20181017_202%2F1539785995546Ufc1J_JPEG%2FX2swHwQEAUrZn13U7HT4cB2_.jpg&type=f150_130
+86,제주시,이탈리아음식,밥깡패,제주 제주시 한림읍 한림로4길 35한림리 1534-6,064-799-8188,일요일 휴무,"['13,000원', '흑돼지', '두부', '커리', '12,000원', '토마토', '고추', '커리', '23,000원']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20180520_65%2F1526777026191XaNNI_JPEG%2FTxVcgPY0vTvMrDYKpJESi2ts.JPG.jpg&type=f150_130
+87,null,null,null,null,null,null,null,null
+88,null,null,null,null,null,null,null,null
+89,서귀포시,한식,옥돔식당,제주 서귀포시 대정읍 신영로36번길 62하모리 1067-23,064-794-8833,"매일 11:00 - 16:00
+수요일 휴무","['9,000원', '보말칼국수', '메뉴판(원산지)']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20151114_122%2F1447431461538p66CG_JPEG%2F167064414760419_0.jpg&type=f150_130
+90,null,null,null,null,null,null,null,null
+91,null,null,null,null,null,null,null,null
+92,null,null,null,null,null,null,null,null
+93,null,null,null,null,null,null,null,null
+94,null,null,null,null,null,null,null,null
+95,서귀포시,생선회,진미명가,제주 서귀포시 안덕면 사계남로 167사계리 2072,064-794-3639,"매일 11:30 - 20:30월2회 월,화 중 휴무","['30,000원', '활어회정식']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fblogfiles.naver.net%2F20160111_268%2Fkkknkt24_1452503022594lYWDz_JPEG%2F20160109_194543.jpg%23740x416&type=f150_130
+96,서귀포시,생선회,남경미락,제주 서귀포시 안덕면 사계남로 190-7사계리 2032-3,064-794-0055,"매일 11:30 - 21:00B.T 15~17시, L.O 19:30","['220,000원', '다금바리회', '220,000원', '북바리(능성어)', '200,000원', '갯돔', '150,000원', '구문쟁이', '130,000원']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20150831_282%2F1440994481351HePNO_JPEG%2F11541774_0.jpg&type=f150_130
+97,서귀포시,카페,레이지박스,제주 서귀포시 안덕면 산방로 208사계리 177-5 제주기념사,064-792-7347,"매일 10:00 - 19:00
+매일 10:00 - 18:30동절기","['4,000원', '아메리카노', '5,000원', '카페모카', '4,000원', '제주당근케이크', '6,500원', '당근주스']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fblogfiles.naver.net%2F20160310_134%2Flsl0610_1457582154221Lg3ia_JPEG%2FP20160214_173816599_19BA8044-F71D-4365-B14D-C15856B23546.JPG%23900x675&type=f150_130
+98,서귀포시,한식,춘미향,제주 서귀포시 안덕면 산방로 382사계리 2818,064-794-5558,"매일 11:30 - 20:30Break time 15:00~17:30 / 재료 소진시 일찍 마감될 수 있습니다.
+수요일 휴무","['20,000원', '춘미향', '정식', '10,000원', '보말미역국', '정식', '8,000원', '몸국', '8,000원', '두루치기', '8,000원', '고기정식', '(점심한정)', '메뉴판(원산지)', '이미지로']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20170405_21%2F1491373645020879Li_JPEG%2F7.jpg&type=f150_130
+99,서귀포시,박물관,오설록 티 뮤지엄,제주 서귀포시 안덕면 신화역사로 15 오설록서광리 1235-1 오설록,064-794-5312,매일 09:00 - 19:00연중무휴,null,https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20190708_9%2F1562549197448T2i7q_JPEG%2FIMG_9733.jpg&type=f150_130
+100,서귀포시,아이스크림,치치퐁,제주 서귀포시 안덕면 사계남로216번길 24-62사계리 171-4 한라봉판매점,010-9536-1322,"매일 휴무인스타그램에 공지
+매일 10:30 - 17:30주문마감 10분전","['3,500원', '치치퐁아이스크림', '메뉴판(원산지)']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20160522_209%2F1463906696808mrGAf_JPEG%2F176472577474694_0.jpeg&type=f150_130
+101,null,null,null,null,null,null,null,null
+102,null,null,null,null,null,null,null,null
+103,제주시,일식당,다람쥐식탁,제주 제주시 한림읍 명월성로 10동명리 1580-7 1층,070-8865-0444,"매일 10:00 - 19:00마지막주문은 오후 6시30분 입니다.
+수요일 휴무","['16,000원', '베이컨크림파스타', '16,000원', '다람쥐쇼쿠지', '12,000원', '미트토마토카레', '12,000원', '시금치두부카레', '12,000원']",null
+104,제주시,두부요리,신의한모,제주 제주시 애월읍 하귀14길 11-1하귀1리 1620-4,064-712-9642,"매일 11:30 - 22:00브레이크타임 15:00~17:30
+월요일 휴무","['18,000원', '나가사키두부탕', '13,000원', '한치간장게장낫또덮밥', '5,500원', '모두부/오보로두부', '9,900원', '가지남방쯔께와', '두부']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fblogfiles.naver.net%2F20160707_255%2Fm2ps3_1467885995748S7XE8_JPEG%2FIMG_9651.JPG%23740x555&type=f150_130
+105,제주시,돼지고기구이,명리동식당,제주 제주시 한경면 녹차분재로 498저지리 3136-1,064-772-5571,"매일 11:30 - 21:00Last Order 20:00
+월요일 휴무구좌직영점,애월점 (수요일 휴무)","['14,000원', '제주', '흑돼지', '자투리고기', '250g', '18,000원', '제주', '흑돼지', '삼겹살', '200g', '18,000원', '제주', '흑돼지', '목살', '200g', '6,000원', '김치전골(뚝배기)', '1인', '12,000원', '김치전골', '小', '2인', '메뉴판(원산지)', '이미지로']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20180212_41%2F1518400351497JEU93_PNG%2F0US28yl1rx3Tg9HwCEVbhohI.png&type=f150_130
+106,null,null,null,null,null,null,null,null
+107,null,null,null,null,null,null,null,null
+108,제주시,중식당,중국집마씸,제주 제주시 한경면 두신로 78신창리 261-3,064-772-3789,"매일 11:00 - 21:00
+화요일 휴무","['5,000원', '햇양파', '짜장면', '8,000원', '볶음우동', '9,000원', '가을제철', '왕새우', '짬뽕', '9,000원', '백짬뽕', '15,000원', '가을제철', '자연송이']",null
+109,null,null,null,null,null,null,null,null
+110,제주시,햄버거,양가형제,제주 제주시 한경면 청수동8길 3청수리 746-8,010-4938-5455,일요일 11:00 - 19:3015-16시 브레이크 18:30 마지막주문,"['9,300원', '경버거_k-burger', '9,300원', '석버거_s-burger', '5,800원', '제주생과일', '5,800원', '밀크쉐이크', '11,500원', '양버거', '메뉴판(원산지)', '이미지로']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20160403_128%2F1459652839913W9mBb_JPEG%2F176353523737315_0.jpeg&type=f150_130
+111,제주시,양식,옐로우564,제주 제주시 한경면 녹차분재로 564저지리 2969-1,064-773-5640,매일 11:00 - 20:00월요일 휴무 / 일요일 16:30까지 영업,"['12,000원', '제주', '흑돼지', '돈까스', '메뉴판(원산지)']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20160318_30%2F1458279538792PQdcf_JPEG%2F176266536256848_0.jpeg&type=f150_130
+112,제주시,태국음식,반양,제주 제주시 한경면 한경해안로 342용수리 3895,070-8883-8545,매일 11:00 - 19:30,"['16,900원', '대표', '타이브런치', '세트', '19,000원', '대표', '뿌팟퐁커리(대)', '9,000원', '소고기', '쌀국수', '11,000원', '해물팟타이', '12,000원']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20150901_27%2F14411090045687yM8m_JPEG%2F166665544662582_0.jpeg&type=f150_130
+113,제주시,베이커리,까미노,제주 제주시 애월읍 고하상로 91-12하가리 1400,064-799-9789,매일 10:30 - 20:00,"['4,000~5,500원', '커피', '10,000~20,000원', '치아바타', '피자', '8,000~13,000원', '브런치', '3,000~5,000원', '베이커리', '3,000~7,000원', '음료', '메뉴판(원산지)', '이미지로']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20151113_274%2F14473960104692oRyt_JPEG%2F167063555668864_0.jpg&type=f150_130
+114,null,null,null,null,null,null,null,null
+115,null,null,null,null,null,null,null,null
+116,제주시,한식,알동네집,제주 제주시 한경면 연명로 545저지리 3174,064-772-3337,"매일 11:00 - 21:00
+목요일 휴무","['12,000원', '짜투리고기', '17,000원', '흑돼지삼겹', '8,000원', '돌솥밥+김치찌개', '8,000원', '돌솥밥+된장찌개', '5,000원', '된장찌개', '메뉴판(원산지)']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fblogfiles.naver.net%2F20160704_108%2Fhib87_14676151896261CRw3_JPEG%2Fimage_9626159881467615103634.jpg%23700x525&type=f150_130
+117,null,null,null,null,null,null,null,null
+118,서귀포시,돼지고기구이,웅담식당,제주 서귀포시 중앙로59번길 5서귀동 295-3,064-762-6442,매일 12:00 - 24:00연중무휴,"['15,000원', '흑돼지오겹살', '200g', '메뉴판(원산지)']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20150831_297%2F1440991711718qsj1H_JPEG%2F11877729_0.jpg&type=f150_130
+119,제주시,한식,신제주삼보식당,제주 제주시 신대로16길 10연동 293-23,064-749-3620,매일 08:00 - 20:00,null,https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fblogfiles.naver.net%2F20151111_186%2Fhansen500_1447248635008ag7Du_JPEG%2F20151107_100156.jpg%23740x416&type=f150_130
+120,서귀포시,"해물,생선요리",네거리식당,제주 서귀포시 서문로29번길 20서귀동 320-9 메로전문,064-762-5513,"주말 09:00 - 22:00
+평일 07:30 - 22:00마지막 주문 21시","['15,000원', '갈치국', '(소)', '20,000원', '갈치국', '(특)', '15,000원', '성게미역국', '15,000원', '옥돔미역국', '25,000원', '갈치구이', '1인분(공기밥별도)', '메뉴판(원산지)', '이미지로']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fldb.phinf.naver.net%2F20151114_235%2F1447431658800UgCos_JPEG%2F167064415077407_0.jpg&type=f150_130
+121,null,null,null,null,null,null,null,null
+122,null,null,null,null,null,null,null,null
+123,서귀포시,한식,명문사거리식당,제주 서귀포시 표선면 중산간동로 5218가시리 1893-1,064-787-1121,매일 09:00 - 21:00명절 연휴 휴무,"['7,000원', '보말국', '6,000원', '몽골리안볶음짬뽕', '5,000원', '고기국수', '10,000원', '순대접시']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzA2MjJfMTA0%2FMDAxNDk4MDk1MzEyMzEx.GC8iU9YUmumGZjDmo4uZVivXMssDVbQ7CM7ykhmlnbYg.hppVITtGq-uihgW6DVIb-6_htA2YVPVzfcZxuaS4TWEg.PNG.ydi007%2FIMG_3270.png%231200x800&type=f150_130
+124,서귀포시,국수,춘자멸치국수,제주 서귀포시 표선면 표선동서로 255표선리 598-3 광수네야식,064-787-3124,매일 08:00 - 18:00명절 휴무,"['4,000원']",https://search.pstatic.net/common/?autoRotate=true&quality=95&src=http%3A%2F%2Fblogfiles.naver.net%2F20160207_233%2Fisawara_1454852688213w3FN6_JPEG%2FKakaoTalk_20160207_021946226.jpg%23700x430&type=f150_130
+125,null,null,null,null,null,null,null,null
+126,null,null,null,null,null,null,null,null
+127,서귀포시,한식,일오반식당,제주 서귀포시 성산읍 고성오조로 87고성리 1194-1 일오반식당,064-782-5250,매일 08:00 - 20:00,"['25,000원', '고등어조림', '中', '8,000원', '정식', '8,000원', '김치찌개', '8,000원', '된장찌개', '메뉴판(원산지)']",null
